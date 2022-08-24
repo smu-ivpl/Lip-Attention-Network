@@ -19,7 +19,7 @@ Fig2. RCAB
 <img src= "assets/Channel-Attention.png" width ="700">  
 Fig3. Channel-Attention (CA)  
 
-
+<br></br>
 You can check the architecture of 'Lip-Attention Network' in 'RG1_RCAB10.txt'.
   
 
