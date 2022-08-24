@@ -43,7 +43,6 @@ Then you can install the package:
 cd LAN/
 
 pip install -r requirements.txt
-
 ```
 **Note:** if you don't want to use CUDA, you need to edit the ``requirements.txt`` and change ``tensorflow-gpu`` to ``tensorflow``
 
