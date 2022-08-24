@@ -9,13 +9,13 @@ It was developed based on the [LipNet](https://github.com/rizkiarm/LipNet).
 
 ## Model
 
-![LAN](assets/Lip-Attention-Network.png)
+<img src= "assets/Lip-Attention-Network.png)" width =700>  
 Fig1. Lip-Attention Network (LAN)  
 
-![RCAB](assets/RCAB.png)
+<img src= "assets/RCAB.png)" width =600>  
 Fig2. RCAB  
 
-![Channel-Attention](assets/Channel-Attention.png)
+<img src= "assets/Channel-Attention.png)" width =700>  
 Fig3. Channel-Attention (CA)  
 
 You can check the architecture of 'Lip-Attention Network' in 'RG1_RCAB10.txt'.
