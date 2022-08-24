@@ -9,13 +9,13 @@ It was developed based on the [LipNet](https://github.com/rizkiarm/LipNet).
 
 ## Model
 
-<center> <img src="assets/Lip-Attention%20Network.png" alt="{{ include.description }}">
+<center> <img src="./assets/Lip-Attention%20Network.png" alt="{{ include.description }}">
   <figcaption style="text-align:center; font-size:16px;> Fig1. Architecture of Lip-Attention Network.
   </figcaption>
   </center> 
 <br>
 
-<center> <img src="assets/RCAB.png" alt="{{ include.description }}">
+<center> <img src="./assets/RCAB.png" alt="{{ include.description }}">
   <figcaption style="text-align:center; font-size:16px;> Fig2. RCAB
   </figcaption>
   </center> 
@@ -27,6 +27,7 @@ You can check the architecture of 'Lip-Attention Network' in 'RG1_RCAB10.txt'.
 ## Results
 
 ----
+
 |          Scenario           |   samples    | Epoch |  CER   |  WER   |  BLEU  |
 |:---------------------------:|:------------:|:-----:|:------:|:------:|:------:|
 |       Original LipNet       | 3964 (whole) |  149  | 12.21% | 19.10% | 81.56% |
